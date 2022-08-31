@@ -1,1 +1,5 @@
-# Sampling
+# Multi-characteristic Subject Selection from Biased Datasets
+
+Subject selection plays a critical role in experimental studies, especially ones with human subjects. Anecdotal evidence suggests that many such studies, done at or near university campus settings suffer from selection bias, i.e., the too-many-college-kids-as-subjects problem. Unfortunately, traditional sampling techniques, when applied over biased data, will typically return biased results. In this paper, we tackle the problem of multi-characteristic subject selection from biased datasets. We present a constrained optimization-based method that finds the best possible sampling fractions for the different population subgroups, based on the desired sampling fractions provided by the researcher running the subject selection.We perform an extensive experimental study, using a variety of real datasets. Our results show that our proposed method outperforms the baselines for all problem variations by up to 90%.
+
+Please cite our paper "Multi-characteristic Subject Selection from Biased Datasets".
